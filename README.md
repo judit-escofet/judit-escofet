@@ -1,14 +1,16 @@
 # Hi, I'm Judit
 
-Computer Science student at **NJIT's Albert Dorman Honors College** (Class of 2029). I build things at the intersection of **AI, data, and full-stack web**, from hackathon safety apps to tools for real estate businesses.
+Computer Science student at **NJIT's Albert Dorman Honors College** (Class of 2029). I build things at the intersection of **AI, data, and full-stack web**, from hackathon AI agents and safety apps to tools for real estate businesses.
 
 - Undergraduate Research Assistant at the **NJIT AI & Ontologies Lab**, working on AI and medical ontologies
+- Currently taking **CodePath CYB102: Intermediate Cybersecurity**
 - 1st Place, UIL Computer Science (Individual & Team, Regional, Texas)
 
 ## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**WattWalk**](https://github.com/Dedeepya777/WattWalk) | AI agent that walks a Matterport 3D apartment scan, inventories energy-relevant assets, and builds a costed upgrade plan (landlord cost vs. tenant savings). Built at HackPrinceton Fall 2026 for the CoStar track; I built the agent, the streaming API and the frontend redesign. [30-second demo](https://youtu.be/pm9TwyjIKaM) | Python, FastAPI, Deep Agents, React, TypeScript |
 | [**Firefly**](https://github.com/judit-escofet/Firefly) | AI safety companion for walking home: on-device distress detection, a silent code-phrase countdown, and a PIN system that quietly alerts contacts if entered wrong. Built for GirlHacks 2026. | React, Node.js, AWS Lambda, Postgres, Twilio, Gemini |
 | [**Barcelona Property Analyzer**](https://github.com/judit-escofet/Barcelona-Property-Analyzer) | CLI tool that estimates Barcelona property values and rental yields with a weighted similarity engine and swappable data providers. | Python, Pydantic, Rich, Pytest |
 | [**Real Estate Management Dashboard**](https://github.com/judit-escofet/RealStateInventory) | Desktop app for managing a real estate portfolio: inventory, a visual rent tracker, and CSV exports. Built for a property management company. | React, Node.js, Electron, SQLite |
@@ -20,7 +22,7 @@ Computer Science student at **NJIT's Albert Dorman Honors College** (Class of 20
 
 **Languages:** Python · TypeScript · JavaScript · Java · C# · SQL · PHP · HTML/CSS
 
-**Frameworks & tools:** React · Node.js · Express · Electron · TensorFlow · Pandas · MongoDB · SQLite · Tailwind CSS · Git
+**Frameworks & tools:** React · Node.js · Express · FastAPI · Electron · TensorFlow · Pandas · MongoDB · SQLite · Tailwind CSS · Git
 
 ## Get in touch
 
